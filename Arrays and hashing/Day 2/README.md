@@ -8,6 +8,8 @@ original letters exactly once.
 Input: s = "rat", t = "car"
 Output: false
 
+[leetcode.com](https://leetcode.com/problems/valid-anagram/description/)
+
 ### Example 1:
 
 > **Input:** s = "anagram", t = "nagaram"  

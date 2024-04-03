@@ -7,6 +7,8 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.
 
+[leetcode.com](https://leetcode.com/problems/two-sum/description/)
+
 ### Example 1:
 
 > **Input:** nums = [2,7,11,15], target = 9   
